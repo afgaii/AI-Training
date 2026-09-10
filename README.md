@@ -33,5 +33,5 @@
    - Python, VS Code, Git, Github & Jupyter Notebook setup.
 
 2. [**Python Foundation**](https://github.com/afgaii/AI-Training/blob/main/01-Python/02-Python_Foundations_Complete_Notes.ipynb)
-
+   - Complete Python Foundation: Variables, Data Types, Lists, Functions, OOP, Error Handling, Logging, Pytest and much more
 ---
