@@ -32,4 +32,6 @@
 1. [**Setup Python Environment**](https://github.com/afgaii/AI-Training/blob/main/01-Python/01-Python_VSCode_Git_GitHub_Jupyter_Windows_Beginner_Guide.ipynb)
    - Python, VS Code, Git, Github & Jupyter Notebook setup.
 
+2. [**Python Foundation**](https://github.com/afgaii/AI-Training/blob/main/01-Python/02-Python_Foundations_Complete_Notes.ipynb)
+
 ---
