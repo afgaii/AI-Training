@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/afgaii/AI-Training?style=flat-square" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/afgaii/AI-Training?style=flat-square" alt="Forks Badge"/>
   <img src="https://img.shields.io/github/license/afgaii/AI-Training?style=flat-square" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/version-0.0.1-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-0.0.3-blue" alt="Version"/>
 </p>
 
 <p align="center">
