@@ -30,11 +30,14 @@
 ## 01. Python 🐍
 
 1. [**Setup Python Environment**](https://github.com/afgaii/AI-Training/blob/main/01-Python/01-Python_VSCode_Git_GitHub_Jupyter_Windows_Beginner_Guide.ipynb)
-   - Python, VS Code, Git, Github & Jupyter Notebook setup.
+   - Python, VS Code, Git, Github & Jupyter Notebook setup. | [**Videos Tutorial (Dari/Persain)**](https://www.youtube.com/playlist?list=PLbQ-NO5lCuq8)
 
 2. [**Python Foundation**](https://github.com/afgaii/AI-Training/blob/main/01-Python/02-Python_Foundations_Complete_Notes.ipynb)
-   - Complete Python Foundation: Variables, Data Types, Lists, Functions, OOP, Error Handling, Logging, Pytest and much more
+   - Complete Python Foundation: Variables, Data Types, Lists, Functions, OOP, Error Handling, Logging, Pytest and much more. | [**Videos Tutorial (Dari/Persain)**](https://www.youtube.com/playlist?list=PLbQ-NO5lCuq8)
 
 3. [**Python Project**](https://github.com/afgaii/CalSimp-python)
-   - Complete Python Project
+   - Complete Python Project. | [**Videos Tutorial (Dari/Persain)**](https://www.youtube.com/playlist?list=PLbQ-NO5lCuq8)
+
+4. [**Numpy**](https://github.com/afgaii/AI-Training/blob/main/01-Python/03-NumPy_for_AI_Complete_Notes.ipynb)
+   - Learn NumPy from scratch, covering arrays, broadcasting, vectorization, and linear algebra. Explore practical applications of NumPy in AI and machine learning through hands-on examples. | [**Videos Tutorial (Dari/Persain)**]()
 ---
