@@ -1,0 +1,13 @@
+student_id,name,gender,province,age,study_hours,math,science,english,enroll_date,passed
+101,Ali,M,Kabul,20,5,78.0,74,80,2023-01-15,yes
+102,Sara,F,Herat,22,8,92.0,89,85,2023-02-03,yes
+103,Omar,M, kabul ,19,3,65.0,60,70,2023-01-20,yes
+104,Zahra,F,Balkh,21,6,,80,90,2023-03-11,yes
+105,Ahmad,M,Kabul,23,2,55.0,58,60,2023-02-27,no
+106,Fatima,F,HERAT,20,9,95.0,91,88,2023-01-05,yes
+107,Hamid,M,Balkh,99,4,70.0,66,75,2023-04-18,yes
+108,Maryam,F,,22,7,88.0,85,82,2023-03-02,yes
+109,Yusuf,M,Kabul,21,1,45.0,50,55,2023-05-09,no
+110,Laila,F,Herat,19,6,,77,79,2023-02-14,yes
+103,Omar,M, kabul ,19,3,65.0,60,70,2023-01-20,yes
+112,Nadia,F,Kandahar,24,5,72.0,70,68,2023-04-01,yes
