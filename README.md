@@ -39,5 +39,8 @@
    - Complete Python Project. | [**Videos Tutorial (Dari/Persain)**](https://www.youtube.com/playlist?list=PLbQ-NO5lCuq8)
 
 4. [**Numpy**](https://github.com/afgaii/AI-Training/blob/main/01-Python/03-NumPy_for_AI_Complete_Notes.ipynb)
-   - Learn NumPy from scratch, covering arrays, broadcasting, vectorization, and linear algebra. Explore practical applications of NumPy in AI and machine learning through hands-on examples. | [**Videos Tutorial (Dari/Persain)**]()
+   - Complete NumPy from scratch: Covering arrays, broadcasting, vectorization, and linear algebra. Explore practical applications of NumPy in AI and machine learning through hands-on examples.
+
+4. [**Pandas**](https://github.com/afgaii/AI-Training/blob/main/01-Python/04-Pandas_for_AI_Complete_Notes.ipynb)
+   - Complete Pandas from scratch: Covering data manipulation, cleaning, filtering, grouping, and analysis. Explore practical applications of Pandas in data science and AI through hands-on examples..
 ---
